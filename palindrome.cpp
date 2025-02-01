@@ -64,7 +64,7 @@ linkedlist l;
 int n;
 cout<<"enter the size of 1 linked list : ";
 cin>>n;
-cout<<"enter the 1 linked list the size of linked list is "<<n<<" : ";
+cout<<"enter the linked list and the size of linked list is "<<n<<" : ";
 for(int i=0;i<n;i++){
     int data;
     cin>>data;
