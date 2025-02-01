@@ -1,4 +1,6 @@
 
+// Q.Write a C++ program that merges multiple sorted linked lists into a single sorted linked list.
+//---->solution
 
 #include<iostream>
 using namespace std;
